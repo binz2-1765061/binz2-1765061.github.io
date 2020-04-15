@@ -1,0 +1,105 @@
+<head>
+    <title> Keith the QB </title>
+    <linK rel="stylesheet" type = "text/css" href="test.css" />
+    <link href="https://fonts.googleapis.com/css?family=Passion+One&display=swap" rel="stylesheet">
+</head>
+body {
+    background-image: url("Dark.png");
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
+
+p {
+    font-weight: bold;
+    color:white;
+    font-family: Arial;
+    
+}
+
+h3{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+
+li{
+
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    background-color: #8E41D5;
+}
+
+#Header h1{
+    font-size:60px;
+    font-family: "passion One";
+    color: #AA8E39;
+    font-weight:bold;
+    background-color: #8E41D5;
+    
+}
+
+#LeftNav{
+    width: 400px;
+    float: left;
+    border:solid 8px black;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: #8E41D5;
+    text-shadow: 2px 2px 5px red;
+
+
+}
+
+#LeftNav img{
+    opacity: 0.5;
+}
+
+#LeftNav ul{
+    list-style-type: none;
+    padding-left:0px;
+    
+}
+
+#LeftNav h3{
+    -ms-transform: rotate(10deg); /* IE 9 */
+    transform: rotate(10deg); /* Standard syntax */
+}
+
+#Content{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: #8E41D5;
+    border-radius: 25px;
+
+
+}
+
+#Footer {
+    list-style-type: none;
+    padding-left: 0px;
+    border:solid 8px black;
+    text-align: center;
+    background-color: #8E41D5;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+
